@@ -1,1 +1,1 @@
-# simple-clock
+simple clock using HTML, CSS & javascript.
