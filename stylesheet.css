@@ -2,7 +2,7 @@
             background-color: rgb(0, 0, 0);
         }
 
-        #container {
+    #container {
 
             text-align: center;
             align-items: center;
@@ -10,7 +10,7 @@
 
         }
 
-        #pa {
+    #pa {
             font-size: 100px;
             color: white;
         }
